@@ -1,0 +1,25 @@
+{
+  "name": "Looku Store – Fashion & Clothing Nairobi",
+  "short_name": "Looku Store",
+  "description": "Nairobi's trusted clothing store. Women's wear, men's wear, kids' clothing, shoes and accessories. Pay via M-Pesa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "lang": "en-KE",
+  "categories": ["shopping", "fashion", "lifestyle"],
+  "icons": [
+    { "src": "looku_logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "looku_logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    { "src": "looku_logo.png", "sizes": "1080x1080", "type": "image/png", "label": "Looku Store Homepage" }
+  ],
+  "shortcuts": [
+    { "name": "Browse Products", "url": "/#browse", "description": "Browse all fashion products" },
+    { "name": "My Cart",         "url": "/#cart",   "description": "View your shopping cart" }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

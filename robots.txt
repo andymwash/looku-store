@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /style.css
+Allow: /app.js
+Allow: /data.js
+Allow: /looku_logo.png
+Allow: /manifest.json
+Disallow: /uploads/private/
+
+# Sitemap location
+Sitemap: https://www.lookustore.co.ke/sitemap.xml
+
+# Crawl delay (be polite to bots)
+Crawl-delay: 10
